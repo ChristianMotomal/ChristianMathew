@@ -10,14 +10,18 @@ I am I'm Lord Christian Mathew G. Motomal, a passionate coder with a knack for d
   [New Era University](https://www.neu.edu.ph/)
   *2021-Present*
 
-## Certification
+## Projects
+- <a href = "https://github.com/ChristianMotomal/customer-verse-manager"> Customer Verse </a>
+- <a href = "https://github.com/ChristianMotomal/RecipeSharing_Api"> Recipeasy </a>
+- <a href = "https://github.com/ChristianMotomal/Pixelcraft_Academy"> Pixelcraft Academy </a>
 
+## Certification
 - <a href = "https://courses.cognitiveclass.ai/certificates/4a501605dc24463c92632152d63e650e"> SQL and Relational Databases 101 </a>
 - <a href = "https://drive.google.com/file/d/15459ibe5WXbPxG09LMw-mDPMoVd0-e_-/view?usp=sharing"> Oracle Cloud Infrastructure 2023 Certified Foundations Associate </a>
 - <a href = "https://drive.google.com/file/d/1mJgL5S96J-amRZmx4PQBblMJN63P4feX/view?usp=sharing"> Oracle Cloud Data Management 2023 Certified Foundations Associate </a>
 - <a href = "https://drive.google.com/file/d/1mn0eDgNEg5MXjky6GgD_xSyv1kveJNWR/view?usp=sharing"> Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate </a>
-## Skill Sets
 
+## Skill Sets
 - **Programming:** Java, Javascript
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
